@@ -3,7 +3,7 @@
 Soy un entusiasta de la tecnología desde que tengo uso de razón. Desde temprana edad, quedé fascinado por los avances tecnológicos y cómo estos han transformado nuestras vidas. Como un eterno curioso, disfruto explorando nuevas tendencias, dispositivos y aplicaciones, y siempre estoy emocionado por aprender y compartir todo lo relacionado con el mundo digital y mi carrera profesional 👾.
 <br/><br/>
 Pero mi interés no se limita únicamente a la tecnología, el arte también juega un papel importante en mi vida 👨‍🎨. Me encanta explorar diversas formas de expresión artística, ya sea a través de la pintura 🖌️, la música 🎸 o cualquier otra manifestación creativa que me permita dar rienda suelta a mi imaginación, como ahora realizar diseños digitales con mi tablet y plasmarlos en forma de tatuajes 💉🗿.
-<br/><br/>
+<br/><br/> 
 Además, soy un apasionado de las artes marciales, llevo practicando Taekwondo 🥋 desde los 4 años. Actualmente soy Cinturón negro 2º Dan por la Real Federación Española de Taewkondo, una disciplina que no solo me ha brindado condecoraciones, habilidades físicas y defensa personal 🤜💥🤛, sino también valiosas lecciones como son la perseverancia, el respeto y el autocontrol, estos valores son mi filosofía de vida 🧘‍♂️.
 <br/><br/>
 Por otro lado, mi espíritu aventurero me lleva a disfrutar de los deportes de montaña o mar. Salir de ruta con mi bicicleta por el monte 🚵, disfutar de un buen día de nieve bajando por una ladera en plena temporada de ski 🏂 o simplemente estar en contacto con la naturaleza flotando sobre un paddle surf 🏄‍♂️ es una fuente de inspiración y bienestar para mí 🏞️.
