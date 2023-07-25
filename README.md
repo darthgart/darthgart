@@ -1,7 +1,8 @@
-<h1 align="center">Hola 👋, soy DARTHGART</h1>
-<h3 align="justify">Soy estudiante de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</h3>
+<h1 align="center">Bienvenidos a mi perfil </h1>
+<h3 align="justify">¡Hola 👋! Mi nombre es Edgar, actualmente resido en Tarragona y soy estudiante de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma desde 2022 🧑‍💻.<br/>
+Soy un entusiasta de la tecnología desde que tengo uso de razón. Desde temprana edad, quedé fascinado por los avances tecnológicos y cómo han transformado nuestras vidas. Como un eterno curioso, disfruto explorando nuevas tendencias, dispositivos y aplicaciones, y siempre estoy emocionado por aprender y compartir todo lo relacionado con el mundo digital y mi carrera profesional 👾.</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacta conmigo: </h3>
 <p align="left">
 <a href="https://twitter.com/darthgart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darthgart" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/edgar-sanchez-gimenez-365739234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar-sanchez-gimenez-365739234" height="30" width="40" /></a>
