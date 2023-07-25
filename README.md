@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy DARTHGART</h1>
-<h3 align="center">estudiante de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</h3>
+<h3 align="justify">Soy estudiante de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
