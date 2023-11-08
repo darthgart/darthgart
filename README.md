@@ -1,8 +1,8 @@
 <img src="banner_dg.jpg"></img>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darthgart&label=Profile%20views&color=0e75b6&style=flat" alt="darthgart" /> </p>
 <h1 align="center">Bienvenidos a mi perfil 🙋‍♂️ </h1>
-<h5 align="justify">¡Hola 👋! Mi nombre es Edgar, actualmente resido en Tarragona y soy estudiante de Técnico Superior en Desarrollo de Aplicaciones Multiplataforma desde 2022 🧑‍💻.
-Soy un entusiasta de la tecnología desde que tengo uso de razón. Como un eterno curioso, disfruto explorando nuevas tendencias, dispositivos y aplicaciones, y siempre estoy emocionado por aprender y compartir todo lo relacionado con el mundo digital y mi carrera profesional 👾.
+<h5 align="justify>Hello 👋! My name is Edgar, I currently live in Tarragona and I am a student of Higher Technician in Multiplatform Applications Development since 2022 🧑‍💻.
+I've been a technology enthusiast for as long as I can remember. As an eternal curious, I enjoy exploring new trends, devices and applications, and I'm always excited to learn and share everything related to the digital world and my professional career 👾.
 <br/><br/>
 Pero mi interés no se limita únicamente a la tecnología, el arte también juega un papel importante en mi vida 👨‍🎨. Me encanta explorar diversas formas de expresión artística, ya sea a través de la pintura 🖌️, la música 🎸 o tatuajes 💉🗿. Además, soy un apasionado de las artes marciales, llevo practicando Taekwondo 🥋 desde los 4 años. Actualmente soy Cinturón negro 2º Dan por la RFE de Taewkondo, una disciplina que no solo me ha brindado condecoraciones, habilidades físicas y defensa personal 🤜💥🤛, sino también valiosas lecciones como son la perseverancia, el respeto y el autocontrol, estos valores son mi filosofía de vida 🧘‍♂️.
 <br/><br/> 
