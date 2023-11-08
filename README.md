@@ -1,6 +1,6 @@
 <img src="banner_dg.jpg"></img>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darthgart&label=Profile%20views&color=0e75b6&style=flat" alt="darthgart" /> </p>
-<h1 align="center">Bienvenidos a mi perfil 🙋‍♂️ </h1>
+<h1 align="center">Welcome Devs 🙋‍♂️ </h1>
 <h5 align="justify">Hello👋! I'm Edgar, a student of Multiplatform Application Development since 2022. My passion for technology has led me to explore new trends, devices and applications. I'm always excited to learn and share everything related to the digital world and my professional career👾.
 <br></br>
 Besides technology, art is also an important part of my life. I love exploring different forms of artistic expression, such as painting, music and tatuajes👨‍🎨. I am also passionate about martial arts and have been practising Taekwondo 🥋 since I was 4 years old. I am currently 2nd Dan Black Belt by the RFE of Taekwondo, and this discipline has taught me valuable lessons such as perseverance, respect and self-control, which are my philosophy of life 🧘‍♂️.
