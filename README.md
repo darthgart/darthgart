@@ -1,12 +1,11 @@
 <img src="banner_dg.jpg"></img>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darthgart&label=Profile%20views&color=0e75b6&style=flat" alt="darthgart" /> </p>
 <h1 align="center">Bienvenidos a mi perfil 🙋‍♂️ </h1>
-<h5 align="justify>Hello 👋! My name is Edgar, I currently live in Tarragona and I am a student of Higher Technician in Multiplatform Applications Development since 2022 🧑‍💻.
-I've been a technology enthusiast for as long as I can remember. As an eternal curious, I enjoy exploring new trends, devices and applications, and I'm always excited to learn and share everything related to the digital world and my professional career 👾.
-<br/><br/>
-Pero mi interés no se limita únicamente a la tecnología, el arte también juega un papel importante en mi vida 👨‍🎨. Me encanta explorar diversas formas de expresión artística, ya sea a través de la pintura 🖌️, la música 🎸 o tatuajes 💉🗿. Además, soy un apasionado de las artes marciales, llevo practicando Taekwondo 🥋 desde los 4 años. Actualmente soy Cinturón negro 2º Dan por la RFE de Taewkondo, una disciplina que no solo me ha brindado condecoraciones, habilidades físicas y defensa personal 🤜💥🤛, sino también valiosas lecciones como son la perseverancia, el respeto y el autocontrol, estos valores son mi filosofía de vida 🧘‍♂️.
-<br/><br/> 
-Por otro lado, mi espíritu aventurero me lleva a disfrutar de los deportes de montaña y mar. Salir de ruta con mi bicicleta por el monte 🚵, disfutar de un buen día de nieve bajando por una ladera en plena temporada de ski 🏂 o simplemente estar en contacto con la naturaleza flotando sobre un paddle surf 🏄‍♂️ es una fuente de inspiración y bienestar para mí 🏞️.
+<h5 align="justify">Hello👋! I'm Edgar, a student of Multiplatform Application Development since 2022. My passion for technology has led me to explore new trends, devices and applications. I'm always excited to learn and share everything related to the digital world and my professional career👾.
+<br></br>
+Besides technology, art is also an important part of my life. I love exploring different forms of artistic expression, such as painting, music and tatuajes👨‍🎨. I am also passionate about martial arts and have been practising Taekwondo 🥋 since I was 4 years old. I am currently 2nd Dan Black Belt by the RFE of Taekwondo, and this discipline has taught me valuable lessons such as perseverance, respect and self-control, which are my philosophy of life 🧘‍♂️.
+<br></br>
+I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboarding 🏂 or paddle surfing 🏄‍♂️ in contact with nature are sources of inspiration and well-being for me 🏞️.
 </h5>
 <h2 align="center"> 🕹️ TECNOLOGÍAS </h2>
 <h5 align="left">Estos son los lenguajes y herramientas que he implementado en algunos de mis proyectos 📲 :</h5>
