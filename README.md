@@ -10,7 +10,6 @@ Besides technology, art is also an important part of my life. I love exploring d
 I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboarding 🏂 or paddle surfing 🏄‍♂️ in contact with nature are sources of inspiration and well-being for me 🏞️.
 </h5>
 
-
 <h2 align="left"> 🕹️ Skills </h2>
 <h5 align="left">These are the languages and tools that I have implemented in some of my projects 📲 :</h5>
 <div align="center">
@@ -57,4 +56,4 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 </div>
   
 <p align="left"> <a href="https://twitter.com/darthgart" target="blank"><img src="https://img.shields.io/twitter/follow/darthgart?logo=twitter&style=for-the-badge" alt="darthgart" /></a> </p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=darthgart&" alt="darthgart" /></p>
+<img src="https://raw.githubusercontent.com/darthgart/darthgart/output/snake.svg" alt="Snake animation" />
