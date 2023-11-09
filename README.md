@@ -11,10 +11,8 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 </h5>
 
 
-<h2 align="left"> 🕹️ Lenguages and tools </h2>
+<h2 align="left"> 🕹️ Skills </h2>
 <h5 align="left">These are the languages and tools that I have implemented in some of my projects 📲 :</h5>
-
-
 <div align="center">
   <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=darthgart&show_icons=true&locale=en&layout=compact" alt="darthgart" /></p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30" alt="android" />
