@@ -26,4 +26,4 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 <a href="https://instagram.com/edsagi_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edsagi_99" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/darthgart" target="blank"><img src="https://img.shields.io/twitter/follow/darthgart?logo=twitter&style=for-the-badge" alt="darthgart" /></a> </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthgart&" alt="darthgart" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=darthgart&" alt="darthgart" /></p>
