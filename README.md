@@ -14,7 +14,6 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 <h2 align="left"> 🕹️ Skills </h2>
 <h5 align="left">These are the languages and tools that I have implemented in some of my projects 📲 :</h5>
 <div align="center">
-  <p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=darthgart&show_icons=true&locale=en&layout=compact" alt="darthgart" /></p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" height="30" alt="android" />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="java"  /> 
@@ -38,6 +37,10 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" height="30" alt="nextjs"  />
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs" /> 
+</div>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=darthgart&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=darthgart&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 
