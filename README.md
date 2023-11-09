@@ -46,9 +46,14 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 <h2 align="left"> 📫 Contact </h2>
 <h5 align="left">You can contact me on my social networks : </h5>
 <p align="left">
-<a href="https://twitter.com/darthgart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="darthgart" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edgar-sanchez-gimenez-365739234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edgar-sanchez-gimenez-365739234" height="30" width="40" /></a>
-<a href="https://instagram.com/edsagi_99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edsagi_99" height="30" width="40" /></a>
-</p>
+
+<div align="left">
+  
+  <a href="https://instagram.com/edsagi_99"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
+  <a href="https://twitter.com/darthgart"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=0da0f4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
+  <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
+  <a href="https://linkedin.com/in/edgar-sanchez-gimenez-365739234"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
+</div>
+  
 <p align="left"> <a href="https://twitter.com/darthgart" target="blank"><img src="https://img.shields.io/twitter/follow/darthgart?logo=twitter&style=for-the-badge" alt="darthgart" /></a> </p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=darthgart&" alt="darthgart" /></p>
