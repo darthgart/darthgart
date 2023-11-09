@@ -27,3 +27,6 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 </p>
 <p align="left"> <a href="https://twitter.com/darthgart" target="blank"><img src="https://img.shields.io/twitter/follow/darthgart?logo=twitter&style=for-the-badge" alt="darthgart" /></a> </p>
 <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=darthgart&" alt="darthgart" /></p>
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
