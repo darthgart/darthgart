@@ -25,13 +25,6 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darthgart&label=Profile%20views&color=0e75b6&style=flat" alt="darthgart" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=darthgart" alt="darthgart" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/darthgart" target="blank"><img src="https://img.shields.io/twitter/follow/darthgart?logo=twitter&style=for-the-badge" alt="darthgart" /></a> </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darthgart&show_icons=true&locale=en&layout=compact" alt="darthgart" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darthgart&show_icons=true&locale=en" alt="darthgart" /></p>
