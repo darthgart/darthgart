@@ -27,6 +27,6 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=darthgart&show_icons=true&locale=en&layout=compact" alt="darthgart" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darthgart&show_icons=true&locale=en" alt="darthgart" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darthgart&" alt="darthgart" /></p>
