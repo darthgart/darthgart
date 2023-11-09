@@ -55,5 +55,3 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
   <a href="https://linkedin.com/in/edgar-sanchez-gimenez-365739234"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
   
-<p align="left"> <a href="https://twitter.com/darthgart" target="blank"><img src="https://img.shields.io/twitter/follow/darthgart?logo=twitter&style=for-the-badge" alt="darthgart" /></a> </p>
-
