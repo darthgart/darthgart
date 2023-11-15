@@ -39,8 +39,8 @@
 </div>
 
 <h2 align="left"> 📫 Contact </h2>
+
 <p align="left">You can contact me on my social networks : </p>
-<p align="left">
 
 <div align="left">
   
