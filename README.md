@@ -1,14 +1,14 @@
 <img src="banner_dg.jpg"></img>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=darthgart&label=Profile%20views&color=0e75b6&style=flat" alt="darthgart" /> </p>
 
-<h1 align="left">Hi, I'm Edgar 🙋‍♂️ </h1>
+<h2 align="left">Hi, I'm Edgar 🙋‍♂️ </h2>
 
-<h5 align="justify">Hello👋! I'm Edgar, a student of Software Development since 2022. My passion for technology has led me to explore new trends, devices and applications. I'm always excited to learn and share everything related to the digital world and my professional career👾.
+<p align="justify">Hello👋! I'm Edgar, a student of Software Development since 2022. My passion for technology has led me to explore new trends, devices and applications. I'm always excited to learn and share everything related to the digital world and my professional career👾.
 <br></br>
 Besides technology, art is also an important part of my life. I love exploring different forms of artistic expression, such as painting, music and tatuajes👨‍🎨. I am also passionate about martial arts and have been practising Taekwondo 🥋 since I was 4 years old. I am currently 2nd Dan Black Belt by the RFE of Taekwondo, and this discipline has taught me valuable lessons such as perseverance, respect and self-control, which are my philosophy of life 🧘‍♂️.
 <br></br>
 I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboarding 🏂 or paddle surfing 🏄‍♂️ in contact with nature are sources of inspiration and well-being for me 🏞️.
-</h5>
+</p>
 
 <h2 align="left"> 🕹️ Skills </h2>
 <h5 align="left">These are the languages and tools that I have implemented in some of my projects 📲 :</h5>
