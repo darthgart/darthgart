@@ -39,7 +39,7 @@ I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboardin
 </div>
 
 <h2 align="left"> 📫 Contact </h2>
-<h5 align="left">You can contact me on my social networks : </h5>
+<p align="left">You can contact me on my social networks : </p>
 <p align="left">
 
 <div align="left">
