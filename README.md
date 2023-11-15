@@ -39,11 +39,9 @@
 </div>
 
 <h2 align="left"> 📫 Contact </h2>
-
 <p align="left">You can contact me on my social networks : </p>
-<br></br>
-<div align="left">
-  
+
+<div align="center">
   <a href="https://instagram.com/edsagi_99"><img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  /></a>
   <a href="https://twitter.com/darthgart"><img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=0da0f4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
   <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
