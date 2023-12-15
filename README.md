@@ -1,5 +1,3 @@
-<img src="banner_dg_blank.png"></img>
-
 <h2 align="left">Hi, I'm Edgar 🙋‍♂️ </h2>
 
 <p align="justify">
@@ -9,6 +7,8 @@
 <br></br>
 🌍 <strong> MY HOBBIES </strong> : I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboarding 🏂 or paddle surfing 🏄‍♂️ in contact with nature are sources of inspiration and well-being for me 🏞️.
 </p>
+
+<img src="banner_dg_blank.png"></img>
 
 <h2 align="left"> 🕹️ Skills </h2>
 <p align="left">These are the languages and tools that I have implemented in some of my projects 📲 :</p>
