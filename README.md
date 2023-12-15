@@ -1,5 +1,4 @@
 <img src="banner_dg_blank.png"></img>
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=darthgart&label=Profile%20views&color=0e75b6&style=flat" alt="darthgart" /> </p>
 
 <h2 align="left">Hi, I'm Edgar 🙋‍♂️ </h2>
 
