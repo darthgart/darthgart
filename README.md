@@ -6,7 +6,7 @@
 🚀 <strong> MY INTERESTS </strong> : Besides technology, art is also an important part of my life. I love exploring different forms of artistic expression, such as painting, music and tatoos. I am also passionate about martial arts and have been practising Taekwondo 🥋 since I was 4 years old. I am currently 2nd Dan Black Belt by the RFE of Taekwondo, and this discipline has taught me valuable lessons such as perseverance, respect and self-control, which are my philosophy of life 🧘‍♂️.
 <br></br>
 🌍 <strong> MY HOBBIES </strong> : I also enjoy mountain and sea sports. Cycling in the mountains 🚵, snowboarding 🏂 or paddle surfing 🏄‍♂️ in contact with nature are sources of inspiration and well-being for me 🏞️.
-</p><br></br>
+</p><br>
 
 <img src="banner_dg_blank.png"></img>
 
