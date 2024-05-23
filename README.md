@@ -1,7 +1,7 @@
 <h2 align="left">Hi, I'm Edgar 🙋‍♂️ </h2>
 
 <p align="justify">
-🧔🏻 <strong> ABOUT ME </strong> : Hello👋! I'm Edgar, a student of Software Development since 2022. My passion for technology has led me to explore new trends, devices and applications. I'm always excited to learn and share everything related to the digital world and my professional career👾.
+🧔🏻 <strong> ABOUT ME </strong> : Hi👋! I'm Edgar, a Software Development since 2024. My passion for technology has led me to explore new trends, devices and applications. I'm always excited to learn and share everything related to the digital world and my professional career👾.
 <br></br>
 🚀 <strong> MY INTERESTS </strong> : Besides technology, art is also an important part of my life. I love exploring different forms of artistic expression, such as painting, listen good music, tattooing someone or practicing martial arts️.
 <br></br>
