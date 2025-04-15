@@ -5,7 +5,7 @@
 <br></br>
 🚀 <strong> MY INTERESTS </strong> : Besides technology, art is also an important part of my life. I love exploring different forms of artistic expression, such as painting, listen good music, tattooing someone or practicing martial arts️.
 <br></br>
-🌍 <strong> MY HOBBIES </strong> :  I also like outdoor sports. In my spare time, if I'm not programming, you can find me mountain biking 🚵, snowboarding 🏂 or paddle surfing 🏄, the contact with nature is for me a source of inspiration and well-being 🏞️
+🌍 <strong> MY HOBBIES </strong> :  I also like outdoor sports. In my spare time, if I'm not programming, you can find me snowboarding 🏂 or paddle surfing 🏄, the contact with nature is for me a source of inspiration and well-being 🏞️
 </p><br>
 
 <img src="banner_dg_blank.png"></img>
