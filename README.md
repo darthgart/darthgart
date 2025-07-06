@@ -9,7 +9,7 @@
 </p><br>
 
 <img src="banner_dg_blank.png"></img>
-
+<!--
 <h2 align="left"> 🕹️ Skills </h2>
 <p align="left">These are the languages and tools that I have implemented in some of my projects 📲 :</p>
 <div align="center">
@@ -37,7 +37,7 @@
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" height="30" alt="nodejs" /> 
 </div>
-
+-->
 <h2 align="left"> 📫 Contact </h2>
 <p align="left">You can contact me on my social networks : </p>
 
