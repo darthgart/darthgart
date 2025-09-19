@@ -42,7 +42,7 @@
 <p align="left">You can contact me on my social networks : </p>
 
 <div align="center">
-  <a href="https://ldarthgart.dev/"><img src="https://img.shields.io/static/v1?message=Darthgart.dev&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="web logo"  /></a>
+  <a href="https://darthgart.dev/"><img src="https://img.shields.io/static/v1?message=Darthgart.dev&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="web logo"  /></a>
   <a href="https://linkedin.com/in/edgar-sanchez-gimenez-365739234"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
   <a href=""><img src="https://img.shields.io/static/v1?message=Gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://twitter.com/darthgart"><img src="https://img.shields.io/static/v1?message=Twitter&label=&color=0da0f4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  /></a>
